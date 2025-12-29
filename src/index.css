@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Background */
+  --color-bg-dark: #010122;
+  --color-bg-mid: #08034e;
+
+  /* Accent */
+  --color-primary: #04cbf7;
+  --color-primary-hover: #0c9d05;
+
+  /* Text */
+  --color-text-main: #ffffff;
+  --color-text-secondary: #ffffff;
+  --color-text-muted: #ffffff;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Global base text color */
+body {
+  color: var(--color-text-main);
+}
+
+/* ================================
+   Background (Glass + Gradient)
+================================ */
+.nav-bg {
+  background: rgb(0, 0, 0);
+  backdrop-filter: blur(10px);
+  background-image: linear-gradient(
+    to right,
+    var(--color-bg-dark),
+    var(--color-bg-mid),
+    var(--color-bg-dark)
+  );
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* Sections transparent */
+section {
+  background: transparent;
+}
