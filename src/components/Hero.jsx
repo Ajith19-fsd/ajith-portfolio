@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { fadeUp } from "../utils/animations";
-import profile from "../assets/profile.png";
+import profile from "../assets/NewProfile.jpg";
 import {
   FaLinkedin,
   FaGithub,
@@ -63,7 +63,7 @@ export default function Hero() {
             </span>
           </h1>
 
-          {/* 🔥 Highlighted Role */}
+          {/* Role */}
           <h2
             className="mt-4 text-3xl md:text-4xl font-extrabold leading-tight"
             style={{ color: "var(--color-primary)" }}
@@ -116,8 +116,9 @@ export default function Hero() {
 
             <span className="h-6 w-px bg-white/30" />
 
+            {/* ✅ Resume Download */}
             <a
-              href="/Ajith_Java_Full_Stack_Resume.pdf"
+              href="/Ajith_Resume.pdf"
               download
               className="flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition hover:scale-105"
               style={{
