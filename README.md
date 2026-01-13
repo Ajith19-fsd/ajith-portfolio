@@ -1,16 +1,22 @@
-# React + Vite
+# Ajith | Java Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio 👋  
+This portfolio showcases my skills, projects, and experience as a **Java Full Stack Developer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧑‍💻 About Me
 
-## React Compiler
+I am a **Java Full Stack Developer** with hands-on experience in building real-world, production-ready applications using **Java, Spring Boot, React, and MySQL**.
+I enjoy learning new technologies and creating clean, user-friendly web applications with secure backend systems.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 📱 Responsive Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully responsive (Mobile, Tablet & Desktop)
+Optimized animations and smooth UI transitions
+
+---
+
+⭐ If you like my work, feel free to star this repository!
