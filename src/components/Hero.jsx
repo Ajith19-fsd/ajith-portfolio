@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { fadeUp } from "../utils/animations";
-import profile from "../assets/NewProfile.jpg";
+import profile from "../assets/NewProfile.png";
 import {
   FaLinkedin,
   FaGithub,
